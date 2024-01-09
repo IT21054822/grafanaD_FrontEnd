@@ -16,6 +16,9 @@ const Nav_Bar: React.FC = () => {
       else if(currentPath === '/'){
         return <LoginNavbar />;
       }
+      else if( currentPath=== '/Home'){
+        return <HomeNavbar/>
+      }
     };
   
     return <div>{renderNavbar()}</div>;
