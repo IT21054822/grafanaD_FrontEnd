@@ -17,7 +17,7 @@ function Signup() {
         <h1>Welcome to our platform!</h1>
         
         
-        <button className="button1"><Link style={{textDecoration:'none'}}  to='/signin'>Sign In</Link></button>
+        <button className="button1"><Link className='towhite' style={{textDecoration:'none'}}  to='/signin'>Sign In</Link></button>
       </div>
       <div className="right-container">
         <div className="header">

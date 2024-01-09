@@ -12,7 +12,7 @@ function Signup() {
       <div className="left-container" style={{backgroundImage:`url(${bg2})`}}>
         <img src={logo} alt="" className='logo' />
         <h1>Let's get Started!</h1>
-        <button className="button1"><Link to='/'>Sign Up</Link></button>
+        <button className="button1"><Link className='towhite' to='/'>Sign Up</Link></button>
       </div>
       <div className="right-container">
         <div className="header">
