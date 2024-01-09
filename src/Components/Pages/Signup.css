@@ -99,6 +99,7 @@ input {
   box-sizing: border-box;
   margin-top: 8px;
   background-color: transparent;
+  color: #000;
 }
 
 .button {
