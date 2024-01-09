@@ -1,13 +1,14 @@
 .forgot-password {
     font-size: 14px;
     color: #555;
-    margin-top: -15px;
+    margin-top: -28px;
     margin-right: 220px;
+    margin-bottom: 14px;
     
   }
   
   .forgot-password span {
-    color: #e74c3c;
+    color: #58cdf0;
     cursor: pointer;
     
   }
