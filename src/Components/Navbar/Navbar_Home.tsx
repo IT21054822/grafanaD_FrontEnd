@@ -1,11 +1,11 @@
-import './Navbar.css'
+import './Navbar_Home.css'
 import logo_c from '../../assets/Logo.svg'
 import { Link } from 'react-router-dom'
 
 
 function Navbar() {
   return (
-    <div className="Navbar">
+    <div className="NavbarH">
         <img src="" alt="" className='logo3' />
         <ul>
             <li><Link to='/Home' className='towhite'>Home</Link></li>
